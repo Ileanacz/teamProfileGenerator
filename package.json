@@ -1,0 +1,28 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "app to create team profile generator ",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Ileanacz/teamProfileGenerator"
+    },
+    "author": "Ileana Guzman",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Ileanacz/teamProfileGenerator"
+    },
+    "homepage": "https://ileanacz.github.io/ReadMeGenerator",
+    "devDependencies": {
+      "jest": "^26.0.1"
+    },
+    "dependencies": {
+      "inquirer": "^7.1.0"
+    }
+  }
